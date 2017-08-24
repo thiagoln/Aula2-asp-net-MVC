@@ -10,6 +10,9 @@ namespace WebAula2.Controllers
     {
         public ActionResult Index()
         {   //TODO: IMPLMENTAR ACESSO A DADOS
+            
+
+
             return View();
         }
 
