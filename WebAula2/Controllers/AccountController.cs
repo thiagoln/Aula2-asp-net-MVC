@@ -14,7 +14,7 @@ namespace WebAula2.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-    {
+    {   //TODOS: SISTEMA ALTERADO 
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
